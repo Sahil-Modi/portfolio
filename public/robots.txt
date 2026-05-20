@@ -1,0 +1,9 @@
+# Allow all search engines to index the site
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://sahil-modi.Live/sitemap.xml
+
+# Crawl-delay directive to manage server load
+Crawl-delay: 1

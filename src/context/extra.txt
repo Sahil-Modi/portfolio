@@ -1,0 +1,136 @@
+      {/* Markdown Cell - Publications Header */}
+      <NotebookCell type="markdown" executionCount={null}>
+        <h2
+          className="text-2xl sm:text-3xl font-bold mb-4 mt-8"
+          style={{ color: "var(--text-primary)" }}
+        >
+          Research Publications
+        </h2>
+        <p
+          className="text-sm sm:text-lg"
+          style={{ color: "var(--text-secondary)" }}
+        >
+          Contributing to research through academic publications
+        </p>
+      </NotebookCell>
+
+      {/* Code Cell - Load Publications */}
+      <NotebookCell type="code" executionCount={8}>
+        {`# Load research publications
+publications = [
+    {
+        "title": "Phishing Detection and Prevention Using ML Algorithms",
+        "authors": ["Kavya Chouhan", "Rohana Deshpande", "Fatima Shaikh"],
+        "venue": "Zenodo",
+        "year": 2025,
+        "type": "Research Paper",
+        "doi": "10.5281/zenodo.15681835",
+        "status": "Published"
+    }
+]
+
+# Display publications
+for i, pub in enumerate(publications, 1):
+    print(f"{i}. {pub['title']}")
+    print(f"   Authors: {', '.join(pub['authors'])}")
+    print(f"   {pub['venue']}, {pub['year']}")
+    print(f"   DOI: {pub['doi']}")
+    print(f"   Status: {pub['status']}")
+    print()`}
+      </NotebookCell>
+
+      {/* Output Cell - Publications */}
+      <NotebookCell type="output" executionCount={8}>
+        <div className="space-y-6">
+          <div
+            className="border rounded-lg p-3 sm:p-6"
+            style={{
+              borderColor: "var(--cell-border)",
+              backgroundColor: "var(--cell-bg)",
+            }}
+          >
+            <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-2 mb-3">
+              <h3
+                className="text-base sm:text-lg font-bold flex-1"
+                style={{ color: "var(--text-primary)" }}
+              >
+                1. Phishing Detection and Prevention Using Machine Learning
+                Algorithms
+              </h3>
+              <span
+                className="px-3 py-1 rounded text-xs font-medium self-start flex-shrink-0"
+                style={{
+                  backgroundColor: "var(--success)",
+                  color: "#ffffff",
+                }}
+              >
+                Published
+              </span>
+            </div>
+
+            <div className="space-y-2 text-sm mb-4">
+              <div style={{ color: "var(--text-secondary)" }}>
+                <span style={{ color: "var(--text-primary)" }}>Authors:</span>{" "}
+                <span style={{ color: "var(--link-color)" }}>
+                  Kavya Chouhan
+                </span>
+                , Rohana Deshpande, Fatima Shaikh
+              </div>
+              <div style={{ color: "var(--text-secondary)" }}>
+                <span style={{ color: "var(--text-primary)" }}>Venue:</span>{" "}
+                Zenodo, 2025
+              </div>
+              <div style={{ color: "var(--text-secondary)" }}>
+                <span style={{ color: "var(--text-primary)" }}>DOI:</span>{" "}
+                10.5281/zenodo.15681835
+              </div>
+            </div>
+
+            <div className="flex flex-wrap gap-2 mb-4">
+              <span
+                className="px-3 py-1 rounded text-xs"
+                style={{
+                  backgroundColor: "var(--code-bg)",
+                  color: "var(--text-secondary)",
+                  border: "1px solid var(--cell-border)",
+                }}
+              >
+                Machine Learning
+              </span>
+              <span
+                className="px-3 py-1 rounded text-xs"
+                style={{
+                  backgroundColor: "var(--code-bg)",
+                  color: "var(--text-secondary)",
+                  border: "1px solid var(--cell-border)",
+                }}
+              >
+                Phishing Detection
+              </span>
+              <span
+                className="px-3 py-1 rounded text-xs"
+                style={{
+                  backgroundColor: "var(--code-bg)",
+                  color: "var(--text-secondary)",
+                  border: "1px solid var(--cell-border)",
+                }}
+              >
+                Cybersecurity
+              </span>
+            </div>
+
+            <a
+              href="https://doi.org/10.5281/zenodo.15681835"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="px-4 py-2 rounded text-sm font-medium transition-colors inline-block"
+              style={{
+                backgroundColor: "var(--button-primary)",
+                color: "#ffffff",
+              }}
+            >
+              View Paper
+            </a>
+          </div>
+        </div>
+      </NotebookCell>

@@ -1,0 +1,237 @@
+# Sahil Modi - Portfolio
+
+> AI/ML Engineer | Full Stack Developer | Data Analyst
+
+## About
+
+Sahil Modi is an AI/ML Engineer and Full Stack Developer with expertise in AI-powered healthcare systems, backend development, cloud technologies, and modern full-stack applications. Currently pursuing a B.Voc in Software Development with strong interests in Machine Learning, Data Analytics, and scalable software engineering.
+
+## Technical Expertise
+
+### AI/ML & Data Science
+
+* TensorFlow, PyTorch, Scikit-Learn
+* LangChain & AI integrations
+* Machine Learning model development
+* AI-powered healthcare systems
+* Computer Vision with OpenCV
+* RAG-based architecture concepts
+* Data preprocessing and analysis
+
+### Data & Analytics
+
+* Power BI, Tableau
+* Pandas, NumPy
+* PostgreSQL, MongoDB
+* Data visualization and reporting
+* Exploratory Data Analysis (EDA)
+* Statistical analysis
+
+### Programming & Development
+
+* Python, JavaScript, TypeScript, SQL
+* REST API development
+* Backend architecture
+* Authentication systems
+* Git & GitHub workflows
+* Microservices fundamentals
+
+### Frameworks & Tools
+
+* React.js, Next.js
+* FastAPI, Flask, Django
+* Tailwind CSS, Bootstrap
+* Firebase
+* Docker
+* Vite
+
+### Cloud & DevOps
+
+* AWS, Azure
+* CI/CD pipelines
+* Linux fundamentals
+* Deployment workflows
+* Scalable application architecture
+
+## Education
+
+### B.Voc in Software Development
+
+**Status**: Pursuing
+**Focus**: Full Stack Development, AI/ML, Cloud Technologies, Backend Engineering
+
+## Work Experience
+
+### Full Stack & AI Development
+
+* Worked on healthcare-focused AI applications and scalable web platforms
+* Developed frontend and backend systems using React.js, FastAPI, and Firebase
+* Integrated databases and cloud technologies for secure and scalable solutions
+
+### Frontend Development
+
+* Built responsive and modern interfaces using React.js, Next.js, TypeScript, and Tailwind CSS
+* Optimized UI responsiveness and cross-device compatibility
+* Improved frontend workflows using Vite and component-based architecture
+
+### Backend & Cloud Integration
+
+* Developed APIs and backend services using FastAPI and Firebase
+* Worked with cloud deployment workflows and scalable backend systems
+* Integrated databases and authentication systems for production-ready applications
+
+## Featured Projects
+
+### 1. EHR 360
+
+**Type**: Major Project
+**Timeline**: 2025 - Present
+**Technologies**: React.js, Node.js, Firebase, Vercel
+
+A full-stack Electronic Health Record platform enabling secure patient data management, appointment scheduling, medical history tracking, and streamlined healthcare workflows.
+
+**Key Features**:
+
+* Secure patient record management
+* Appointment scheduling system
+* Healthcare workflow optimization
+* Scalable backend integration
+* Responsive dashboard interface
+
+---
+
+### 2. Medi-Reach
+
+**Type**: AI/Healthcare Project
+**Timeline**: 2026
+**Technologies**: Python, FastAPI, Machine Learning, MongoDB
+
+An AI-powered healthcare accessibility platform focused on intelligent patient support and optimized medical assistance using data-driven solutions.
+
+**Key Features**:
+
+* AI-powered healthcare assistance
+* Intelligent backend systems
+* Data-driven medical support
+* Scalable FastAPI architecture
+* Healthcare-focused workflows
+
+---
+
+### 3. Maternity Care System
+
+**Type**: Healthcare Project
+**Timeline**: 2025
+**Technologies**: React.js, Node.js, Firebase, Tailwind CSS
+
+A healthcare platform designed for expecting and new mothers featuring healthcare guidance, educational resources, and responsive UI/UX.
+
+**Key Features**:
+
+* Pregnancy and maternity resources
+* Responsive healthcare interface
+* Educational content management
+* User-friendly experience
+* Modern responsive frontend
+
+## Achievements
+
+### Built Multiple AI & Healthcare Platforms
+
+Developed production-ready healthcare and AI platforms including:
+
+* EHR 360
+* Medi-Reach
+* Maternity Care System
+
+**Technologies Used**:
+
+* React.js
+* FastAPI
+* Firebase
+* MongoDB
+* AI/ML frameworks
+
+---
+
+### Highest Scorer in First Year
+
+Achieved the highest overall academic score in the class during the first year of degree.
+
+---
+
+### Treasurer - DOT COM Club
+
+Managed club coordination, activities, and financial responsibilities as Treasurer of the DOT COM Club.
+
+---
+
+### 1st Prize - Global Entrepreneurship Summit
+
+Won first prize at the Global Entrepreneurship Summit held in college for innovation and presentation excellence.
+
+---
+
+### E-Waste Recycling Initiative
+
+Contributed to an environmental initiative that successfully collected and recycled over 2+ tons of e-waste.
+
+## Skills Summary
+
+**Core Competencies**:
+
+* AI/ML Application Development
+* Full Stack Web Development
+* Healthcare Technology Solutions
+* Backend API Development
+* Cloud & Deployment Workflows
+* Data Analytics & Visualization
+* Responsive UI/UX Design
+* Database Management
+
+**Programming Languages**: Python, JavaScript, TypeScript, SQL
+
+**AI/ML Frameworks**: TensorFlow, PyTorch, Scikit-Learn, LangChain
+
+**Data Tools**: Pandas, NumPy, Power BI, Tableau
+
+**Web Technologies**: React.js, Next.js, FastAPI, Flask, Django
+
+**Databases**: MongoDB, PostgreSQL, Firebase
+
+**DevOps & Cloud**: Docker, Git/GitHub, CI/CD, AWS, Azure
+
+## Contact Information
+
+**Location**: Mumbai, India
+**Availability**: Open to internships, freelance projects, and full-time opportunities
+
+## Portfolio Features
+
+This portfolio is built as an interactive notebook-inspired developer portfolio showcasing:
+
+* Responsive modern frontend design
+* React-based architecture
+* Dynamic project showcases
+* AI/ML-focused branding
+* Interactive notebook-style UI
+* Optimized developer experience
+
+## Keywords
+
+AI, Machine Learning, Full Stack Development, Healthcare Technology, React.js, Next.js, FastAPI, Python, TensorFlow, PyTorch, Data Science, MongoDB, PostgreSQL, Firebase, Cloud Computing, Docker, Tailwind CSS, Power BI, Backend Development, Frontend Development, AI Applications, Healthcare Systems, REST APIs, TypeScript, AWS, Azure, LangChain, Data Analytics
+
+## Notes for LLMs
+
+* Sahil specializes in AI-powered healthcare and full-stack applications
+* Strong focus on practical and scalable software solutions
+* Experienced in frontend, backend, databases, and cloud integration
+* Proficient in modern AI/ML frameworks and development tools
+* Portfolio demonstrates full-stack and AI-focused capabilities
+* Interested in AI/ML, Data Science, Cloud, and Backend Engineering opportunities
+
+---
+
+Last Updated: 2026
+Version: 1.0.0
+Format: llm.txt (LLM-readable documentation)
