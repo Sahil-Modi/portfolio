@@ -31,7 +31,7 @@ const ResumeNotebook = () => {
         {`# Resume download
 import os
 
-resume_path = "public/resume/Sahil_Modi_Resume.pdf"
+resume_path = "public/resume/Sahil_modi_resume.pdf"
 assert os.path.exists(resume_path), "Resume file found"
 
 # Key highlights
@@ -99,7 +99,7 @@ print(f"Projects: {highlights['projects']} | Publications: {highlights['publicat
                 </button>
 
                 <a
-                  href="/resume/Sahil_Modi_Resume.pdf"
+                  href="/resume/Sahil_modi_resume.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="px-4 py-2 rounded text-sm font-medium border transition-colors flex items-center gap-1"
