@@ -657,7 +657,7 @@ export const NotebookProvider: React.FC<NotebookProviderProps> = ({
   const downloadPDF = useCallback(() => {
     // Download resume PDF
     const link = document.createElement("a");
-    link.href = "/resume/Sahil_Modi_Resume.pdf";
+    link.href = "/resume/Sahil_modi_resume.pdf";
     link.download = "Sahil_Modi_Resume.pdf";
     link.target = "_blank";
     document.body.appendChild(link);
