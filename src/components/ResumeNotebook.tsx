@@ -99,7 +99,7 @@ print(f"Projects: {highlights['projects']} | Publications: {highlights['publicat
                 </button>
 
                 <a
-                  href="/resume/Sahil_modi_resume.pdf"
+                  href="https://drive.google.com/file/d/1X1wQik_jS58C6L5Q7CV7JoF665vU19ll/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="px-4 py-2 rounded text-sm font-medium border transition-colors flex items-center gap-1"
