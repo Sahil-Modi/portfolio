@@ -31,7 +31,7 @@ const ResumeNotebook = () => {
         {`# Resume download
 import os
 
-resume_path = "public/resume/Sahil_modi_resume.pdf"
+resume_path = "public/Sahil_modi_resume.pdf"
 assert os.path.exists(resume_path), "Resume file found"
 
 # Key highlights
